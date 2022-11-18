@@ -18,7 +18,7 @@ dic_2 ={
     'tijd': 'de tijd in secondes: \n',
     'snelheid': 'de snelheid in meter per seconde: \n',
     'massa': 'de massa in kg: \n',
-    'verselling': 'de versnelling in m/s_2: \n ',
+    'versnelling': 'de versnelling in m/s_2: \n ',
     'newton': 'kracht in newton: \n'
 }
 
